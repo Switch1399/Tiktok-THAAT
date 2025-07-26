@@ -1,0 +1,4 @@
+your_key.json
+*.env
+data/*.csv
+__pycache__/
